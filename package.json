@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jshjohnson/Choices.git"
+    "url": "git+https://github.com/boast-io/Choices.git"
   },
   "author": "Josh Johnson",
   "license": "MIT",
